@@ -1,5 +1,3 @@
-# NecklaceEqualizer
-
 #include <Adafruit_NeoPixel.h>
  
 #define N_PIXELS  2  // Number of pixels you are using
